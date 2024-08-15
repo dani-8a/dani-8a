@@ -1,20 +1,20 @@
-<h1 align="left">Bienvenid@ a mi GitHub</h1>
+<h1 align="left">Welcome to my GitHub</h1>
 
 ###
 
-<p align="left">Me llamo Daniel Ochoa, Técnico Superior en Desarrollo de Aplicaciones Multiplataforma.</p>
+<p align="left">This is Daniel Ochoa, Higher Technician in Multiplatform Aplication Developing.</p>
 
 ###
 
-<h2 align="left">Sobre mí:</h2>
+<h2 align="left">About me:</h2>
 
 ###
 
-<p align="left">💼 Actualmente estoy buscando trabajo como Software Developer.<br>📚 Recién graduado en junio del 2024.<br>📍 Madrid, España.<br>🌐 Portfolio: https://danielochoaportfolio.netlify.app/<br>🌐 LinkedIn: https://www.linkedin.com/in/danielochoahita/<br>📧 E-mail: danielochoa1987@gmail.com</p>
+<p align="left">💼 Currently looking for a job as a Software Developer<br>📚 Just graduated in June 2024<br>📍 Madrid, Spain<br>🌐 Portfolio: https://danielochoaportfolio.netlify.app/<br>🌐 LinkedIn: https://www.linkedin.com/in/danielochoahita/<br>📧 E-mail: danielochoa1987@gmail.com</p>
 
 ###
 
-<h2 align="left">Tecnologías utilizadas:</h2>
+<h2 align="left">Technical skills:</h2>
 
 ###
 
@@ -54,7 +54,7 @@
 
 ###
 
-<h1 align="left">Trabajo Final de Grado: MadBeats</h1>
+<h1 align="left">Degree Final Project: MadBeats app</h1>
 
 ###
 
@@ -64,11 +64,11 @@
 
 ###
 
-<p align="left">"Es una aplicación móvil para dispositivos Android basada en la búsqueda de eventos esencialmente nocturnos en la ciudad de Madrid. Dichos eventos se pueden filtrar por el spot donde se celebra, categoría musical o fecha de celebración. El usuario tiene acceso a toda la información que proporciona MadBeats y tiene la opción de registrarse para poder gestionar sus eventos y spots favoritos". <br><br>● MadBeats se divide en dos proyectos (back end y front end) con repositorios independientes:<br><br>- Back end: desarrollado en SpringBoot. <br>Link al repositorio próximamente...<br>- Front end: desarrollado en Android Studio. <br>Link al repositorio próximamente...<br><br>● Se ha desarrollado una API Rest interna (API MadBeats) que sirve como nexo de unión entre el back end y el front end. Su manejo y testing se realiza desde Postman. También hay dos conexiones con servicios externos proporcionados por Google Cloud (SDK Maps y API Geocoding) para el uso de mapas y localizaciones.<br><br>● Se ha utilizado una base de datos MongoDB para el alojamiento de datos en el Cloud.<br><br>● Gracias a las GitHub Actions 'CI/CD', MadBeats está configurado para hacer despliegues en el Cloud se manera contínua. Se hace uso de herramientas como Maven y Docker.<br><br>● Hosting en el Cloud gracias a Heroku, para que todos los usuarios que tengan acceso a la aplicación a nivel mundial, puedan utilizarla en su plenitud.</p>
+<p align="left">"It's a mobile application for Android devices focused on searching essentially nightlife events in the city of Madrid. These events can be filtered by venue, musical category or event date. Users have access to all the information provided by MadBeats and have the option to register in order to manage their favorite events and venues." <br><br>● MadBeats is divided into two separate projects (back-end and front-end), both of them with its own independent repository:<br><br>- Back-end: developed via Spring Boot. <br>Repository link coming soon...<br>- Front-end: developed via Android Studio. <br>Repository link coming soon...<br><br>● An internal REST API (MadBeats API) has been developed to serve as a bridge between the back-end and front-end. It's handling and testing are carried out by using Postman. Additionally, there are two connections to external services provided by Google Cloud (Maps SDK and Geocoding API) for the use of maps and locations.<br><br>● A MongoDB database has been used for cloud data storage.<br><br>● Thanks to GitHub Actions for CI/CD, MadBeats is set for continuous deployment to the cloud. Tools like Maven and Docker are also used.<br><br>● The application is hosted in the cloud via Heroku, enabling global users to fully access and use the app."</p>
 
 ###
 
-<h2 align="left">Arquitectura:</h2>
+<h2 align="left">Architecture:</h2>
 
 ###
 
