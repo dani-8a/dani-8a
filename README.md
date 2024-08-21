@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">This is Daniel Ochoa, Higher Technician in Multiplatform Aplication Developing.</p>
+<p align="left">This is Daniel Ochoa, Higher Technician in Multiplatform Aplication Developing. Software Developer</p>
 
 ###
 
