@@ -73,7 +73,7 @@
 ###
 
 <div align="center">
-  <img height="700" src="https://github.com/dani-8a/MadBeatsBackend/blob/main/Arquitectura_MadBeats.png?raw=true"  />
+  <img height="700" src="https://raw.githubusercontent.com/dani-8a/dani-8a/main/Arquitectura_MadBeats_v2.png"  />
 </div>
 
 ###
