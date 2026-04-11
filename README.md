@@ -73,7 +73,7 @@
 ###
 
 <div align="center">
-  <img height="700" src="https://raw.githubusercontent.com/dani-8a/dani-8a/main/Arquitectura_MadBeats_v2.png"  />
+  <img height="700" src="https://raw.githubusercontent.com/dani-8a/dani-8a/main/Arquitectura MadBeats.png"  />
 </div>
 
 <h2 align="left">AI integration Multi Agent System:</h2>
